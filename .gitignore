@@ -55,3 +55,6 @@ nunit-*.xml
 
 # Visual Studio
 .vs/
+
+# Env for storing secrets for local development
+.env
